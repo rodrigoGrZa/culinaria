@@ -1,0 +1,14 @@
+{
+  "#protein":         { "hunger": 3.0, "saturation": 0.8 },
+  "#tuber":           { "hunger": 2.0, "saturation": 0.4 },
+  "#vegetable":       { "hunger": 2.0, "saturation": 0.4 },
+  "#grain":           { "hunger": 3.0, "saturation": 0.6 },
+  "#fruit":           { "hunger": 2.0, "saturation": 0.2 },
+  "#dairy":           { "hunger": 2.0, "saturation": 0.5 },
+
+  "#oil":             { "hunger": 0.0, "saturation": 0.6 },
+  "#sweet":           { "hunger": 1.0, "saturation": 0.2 },
+
+  "#herb":            { "hunger": 0.0, "saturation": 0.0 },
+  "#spice":           { "hunger": 0.0, "saturation": 0.0 }
+}

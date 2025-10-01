@@ -1,0 +1,6 @@
+{
+  "PAN": {
+    "candidates": ["pan_fry"],
+    "multipliersByMedium": { "fat": 0.10, "wet": 0.00 }
+  }
+}

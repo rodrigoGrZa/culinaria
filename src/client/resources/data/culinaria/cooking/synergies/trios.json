@@ -1,0 +1,7 @@
+{
+  "trios": [
+    { "match": ["#protein","#spice","wet"], "deltaScore": 6 },
+    { "match": ["#oil","#egg","#tuber"], "deltaScore": 9 }
+  ],
+  "caps": { "trioTotalMax": 10 }
+}

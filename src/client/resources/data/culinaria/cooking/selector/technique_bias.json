@@ -1,0 +1,7 @@
+{
+  "compositionBonus": {
+    "soup":  { "wetnessOverSolids": { "min": 1.2, "bonus": 0.10 }, "herbiness": 0.03 },
+    "stew":  { "wetnessOverSolidsRange": { "min": 0.5, "max": 1.2, "bonus": 0.10 }, "proteinDense": 0.10 },
+    "sauce": { "maxSolids": { "value": 2.0, "bonus": 0.10 }, "hasSpice": 0.02 }
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "proteinPlusCarb": { "hungerMult": 1.10, "saturationMult": 1.05 },
+  "vegOrHerbPresent": { "saturationMult": 1.05 }
+}

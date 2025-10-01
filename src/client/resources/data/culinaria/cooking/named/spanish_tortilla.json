@@ -1,0 +1,8 @@
+{
+  "require": ["#egg","#tuber","#oil"],
+  "forbid": ["#sweet"],
+  "mode": "PAN",
+  "dishId": "spanish_tortilla",
+  "displayName": "Spanish Tortilla",
+  "baseDish": "pan_fry"
+}

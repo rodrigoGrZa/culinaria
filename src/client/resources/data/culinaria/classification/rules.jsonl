@@ -1,0 +1,5 @@
+{ "type":"item", "item":"minecraft:honey_bottle", "add": { "categories":["#sweet","#liquid","#cooking_medium/wet"], "flavor":{"sweet":3}, "properties":["liquid"] }, "priority":100, "mergeMode":"assign" }
+{ "type":"tag", "tag":"minecraft:meat", "add": { "categories":["#protein"], "flavor":{"savory":2} }, "priority":80, "mergeMode":"additive" }
+{ "type":"tag", "tag":"culinaria:spices", "add": { "categories":["#spice"] }, "priority":80, "mergeMode":"additive" }
+{ "type":"pattern", "namespace":"minecraft", "pathRegex":".*_berries", "add": { "categories":["#fruit","#sweet"], "flavor":{"sweet":2,"acidic":1} }, "priority":60, "mergeMode":"additive" }
+{ "type":"item", "item":"culinaria:sunflower_oil", "add": { "categories":["#oil","#cooking_medium/fat"], "flavor":{"fatty":3}, "properties":["oil"] }, "priority":100, "mergeMode":"assign" }

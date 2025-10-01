@@ -1,0 +1,8 @@
+{
+  "require": ["#protein","#spice"],
+  "prefer": ["wet","fat"],
+  "mode": "POT",
+  "dishId": "basic_curry",
+  "displayName": "Curry",
+  "baseDish": "stew"
+}

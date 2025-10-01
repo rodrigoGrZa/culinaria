@@ -1,0 +1,8 @@
+{
+  "require": ["#herb","#vegetable"],
+  "prefer": ["wet"],
+  "mode": "POT",
+  "dishId": "herb_soup",
+  "displayName": "Herb Soup",
+  "baseDish": "soup"
+}

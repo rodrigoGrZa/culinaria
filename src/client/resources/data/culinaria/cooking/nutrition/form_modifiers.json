@@ -1,0 +1,10 @@
+{
+  "fried_like": { "hungerDelta": 0.0, "saturationDelta": 0.20 },
+  "soup_like":  { "hungerDelta": 0.10, "saturationDelta": -0.05 },
+  "stew_like":  { "hungerDelta": 0.10, "saturationDelta": 0.00 },
+  "sauce_like": { "hungerDelta": 0.00, "saturationDelta": 0.10 },
+
+  "roasted":    { "hungerDelta": 0.00, "saturationDelta": 0.05 },
+  "dried":      { "hungerDelta": 0.00, "saturationDelta": 0.00 },
+  "milled":     { "hungerDelta": 0.00, "saturationDelta": -0.10 }
+}

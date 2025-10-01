@@ -1,0 +1,7 @@
+{
+  "COOK_START": ["culinaria:sfx_boil_start","culinaria:sfx_sizzle_start"],
+  "COOK_FINISH_TIER_COMMON": ["culinaria:sfx_finish_soft"],
+  "COOK_FINISH_TIER_GOOD": ["culinaria:sfx_finish_clean"],
+  "COOK_FINISH_TIER_EXCELLENT": ["culinaria:sfx_finish_bell"],
+  "RECIPE_DISCOVERED": ["culinaria:sfx_write_quill"]
+}

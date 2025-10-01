@@ -1,0 +1,7 @@
+{
+  "beyondFirst": {
+    "#oil":   0.30,
+    "#sweet": 0.30
+  },
+  "lightSauceCaps": { "capHunger": 2.0, "capSaturation": 0.8 }
+}

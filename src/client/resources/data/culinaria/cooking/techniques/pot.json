@@ -1,0 +1,6 @@
+{
+  "POT": {
+    "candidates": ["soup","stew","sauce"],
+    "multipliersByMedium": { "wet": 0.10, "fat": 0.05 }
+  }
+}

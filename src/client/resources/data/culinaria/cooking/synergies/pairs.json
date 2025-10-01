@@ -1,0 +1,13 @@
+{
+  "pairs": [
+    { "match": ["#egg","#tuber"], "deltaScore": 8 },
+    { "match": ["#oil","#egg"], "deltaScore": 4 },
+    { "match": ["#herb","#vegetable"], "deltaScore": 4 },
+    { "match": ["#spice","#grain"], "deltaScore": 5 },
+    { "match": ["#spice","#protein"], "deltaScore": 5 },
+    { "match": ["#herb","#egg"], "deltaScore": 2 },
+    { "match": ["#oil","#spice"], "deltaScore": 3 },
+    { "match": ["#sweet","#grain"], "deltaScore": 3 }
+  ],
+  "caps": { "pairTotalMax": 12 }
+}

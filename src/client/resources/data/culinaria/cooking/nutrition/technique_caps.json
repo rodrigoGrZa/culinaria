@@ -1,0 +1,10 @@
+{
+  "POT": {
+    "soup":  { "capHunger": 9.0, "capSaturation": 2.6 },
+    "stew":  { "capHunger": 9.0, "capSaturation": 2.6 },
+    "sauce": { "capHunger": 8.0, "capSaturation": 2.6 }
+  },
+  "PAN": {
+    "pan_fry": { "capHunger": 8.0, "capSaturation": 3.2 }
+  }
+}

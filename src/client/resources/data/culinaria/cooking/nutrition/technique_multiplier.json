@@ -1,0 +1,6 @@
+{
+  "soup":    { "hungerMult": 1.00, "saturationMult": 0.95 },
+  "stew":    { "hungerMult": 1.05, "saturationMult": 1.00 },
+  "sauce":   { "hungerMult": 1.00, "saturationMult": 1.10 },
+  "pan_fry": { "hungerMult": 1.00, "saturationMult": 1.15 }
+}
