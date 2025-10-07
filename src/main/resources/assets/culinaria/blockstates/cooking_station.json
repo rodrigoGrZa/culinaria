@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "mode=pot": { "model": "culinaria:block/cooking_station_pot" },
+    "mode=pan": { "model": "culinaria:block/cooking_station_pan" }
+  }
+}
